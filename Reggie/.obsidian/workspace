@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "14cfd37103cd2ddd",
+    "type": "split",
+    "children": [
+      {
+        "id": "4642be470e44fc9d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rooster Boss Design.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c83c197f9001cdd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0846e17b0e5269e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a11853de90114b82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3fcf31ad0d0dce3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "93202fcfc42ee60b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4bdbe5ee012e830",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe6b4ed9cf885e38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rooster Boss Design.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4642be470e44fc9d",
+  "lastOpenFiles": [
+    "Rooster Boss Design.md",
+    "aaa.png",
+    "TODO.md",
+    "img/TopCenterBottom.png",
+    "Pasted image 20210915132925.png",
+    "Untitled.md"
+  ]
+}
